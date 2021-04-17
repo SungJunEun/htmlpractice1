@@ -35,11 +35,14 @@ nav {
 
 .day-forecast {
     background: right/contain content-box border-box no-repeat
-        url('dog.png') white;
+            white;
 }
 
 .day-forecast > h2,
 .day-forecast > p {
     margin: .2rem;
     font-size: 1rem;
+}
+.fit-picture {
+    width: 250px;
 }
