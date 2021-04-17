@@ -13,7 +13,7 @@ nav {
 
 .crumb a::after {
     display: inline-block;
-    color: #000;
+    color: #010;
     content: '>';
     font-size: 80%;
     font-weight: bold;
