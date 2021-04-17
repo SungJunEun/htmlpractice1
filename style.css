@@ -35,7 +35,7 @@ nav {
 
 .day-forecast {
     background: right/contain content-box border-box no-repeat
-        url('/media/examples/rain.svg') white;
+        url('dog.png') white;
 }
 
 .day-forecast > h2,
