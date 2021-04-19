@@ -4,3 +4,7 @@
 .mayer{
   color:#cd2653;
 }
+a.right {
+    position: absolute;
+    right: 0;  
+}
