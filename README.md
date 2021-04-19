@@ -6,5 +6,5 @@
 ## Copy#1
 * Copying [systrom.com/about](http://systrom.com/about/)
 
-[Shitty systrom.com](https://replit.com/@kkang60298/htmlpractice1#COPY/systrom.html)
+[Shitty systrom.com](https://810b42eb-2ec4-477e-aa4c-84a402bd9da5.id.repl.co/COPY/systrom.html)
 
